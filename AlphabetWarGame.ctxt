@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=AlphabetWarGame
+comment1.params=
+comment1.target=AlphabetWarGame()
+comment2.params=A
+comment2.target=AlphabetWarGame(int[])
+comment3.params=
+comment3.target=void\ game()
+comment4.params=left\ right
+comment4.target=void\ game(java.lang.String,\ java.lang.String)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

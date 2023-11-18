@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Performance
+comment1.params=
+comment1.target=Performance()
+comment2.params=
+comment2.target=void\ readMarks()
+comment3.params=
+comment3.target=int\ highestMarks()
+comment4.params=
+comment4.target=int\ leastMarks()
+comment5.params=
+comment5.target=int[]\ getMode()
+comment6.params=
+comment6.target=int[]\ getFreqAtMode()
+comment7.params=
+comment7.target=void\ display()
+comment8.params=
+comment8.target=void\ main()
+numComments=9
