@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=JavaProfessionalRobber
+comment1.params=x
+comment1.target=int\ Rowhouses(int[])
+comment10.params=x
+comment10.target=int\ Roundhouses(int[])
+comment11.params=x
+comment11.target=int\ Multihouse(int[])
+comment12.params=args
+comment12.target=void\ main(java.lang.String[])
+comment2.params=x
+comment2.target=int\ Roundhouses(int[])
+comment3.params=x
+comment3.target=int\ Squarehouse(int[])
+comment4.params=x
+comment4.target=int\ Multihouse(int[])
+comment5.params=
+comment5.target=void\ RobbingClass()
+comment6.params=
+comment6.target=void\ MachineLearning()
+comment7.params=x
+comment7.target=int\ common(int[])
+comment8.params=x
+comment8.target=int\ Squarehouse(int[])
+comment9.params=x
+comment9.target=int\ Rowhouses(int[])
+numComments=13
