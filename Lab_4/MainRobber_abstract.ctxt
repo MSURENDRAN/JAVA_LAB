@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MainRobber_abstract
+comment1.params=
+comment1.target=void\ RobbingClass()
+comment2.params=money
+comment2.target=int\ RoundHouse(int[])
+comment3.params=money
+comment3.target=int\ RowHouse(int[])
+comment4.params=money
+comment4.target=int\ SquareHouse(int[])
+comment5.params=money
+comment5.target=int\ MultiHouse(int[])
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
