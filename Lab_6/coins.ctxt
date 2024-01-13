@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=coins
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=array\ target\ start\ current\ result
+comment2.target=void\ combiFunction(int[],\ int,\ int,\ java.util.List,\ java.util.List)
+numComments=3
